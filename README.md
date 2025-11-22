@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+<img src="https://github.com/AryanPandeyDev/AryanPandeyDev/raw/main/cyber.gif" width="100%" height="180" style="border-radius: 10px; object-fit: cover;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM_INIT_...;Welcome+to+my+GitHub+Mainframe;I+am+Aryan+Pandey;Building+Android+%2B+Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM_INIT_...;I+am+Aryan+Pandey;Full+Stack+Android+Developer;Building+Automated+Systems" alt="Typing SVG" />
 </a>
 
 <p>
@@ -19,7 +19,7 @@
 
 > "I enjoy turning ideas into smooth, reliable, and well-crafted products."
 
-I am a developer focused on the **whole experience**. I bridge the gap between fluid Mobile UIs and robust Backend logic. My goal is simple: build products that are fast, stable, and pleasant to use.
+I am a developer focused on the **whole experience**. I bridge the gap between fluid Mobile UIs and robust Backend logic. My goal is simple: build products that are simple, stable, and pleasant to use.
 
 🔹 **Android:** Kotlin, Jetpack Compose, MVVM, Room
 <br/>
@@ -33,6 +33,14 @@ I am a developer focused on the **whole experience**. I bridge the gap between f
 
 <br/>
 
+<h2 align="center">🏆 ACHIEVEMENTS UNLOCKED</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AryanPandeyDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
+<br/>
+<br/>
+
 <h2 align="center">⚡ NEURAL INTERFACE / SKILLS ⚡</h2>
 
 <h3 align="center">🤖 Android Ecosystem</h3>
@@ -42,6 +50,7 @@ I am a developer focused on the **whole experience**. I bridge the gap between f
 <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=google&logoColor=white&color=FF00FF" />
 <img src="https://img.shields.io/badge/Coroutines-000000?style=for-the-badge&logo=kotlin&logoColor=white&color=00F0FF" />
 <img src="https://img.shields.io/badge/Room-1976D2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DataStore-6200EE?style=for-the-badge" />
 
 <h3 align="center">📡 Backend & Data</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -54,6 +63,7 @@ I am a developer focused on the **whole experience**. I bridge the gap between f
 
 <h3 align="center">🛠️ Arsenal & AI</h3>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=vim&logoColor=white" />
@@ -121,8 +131,6 @@ An automated system that keeps plants alive using <b>ESP8266</b> & <b>Server Sen
 
 <br/>
 
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="100" style="object-fit: cover; opacity: 0.8" />
-
-<p align="center">SYSTEM_OFFLINE // END OF LINE</p>
+<img src="https://github.com/AryanPandeyDev/AryanPandeyDev/raw/main/undefined%20-%20Imgur.gif" width="100%" height="150" style="object-fit: cover;" />
 
 </div>
