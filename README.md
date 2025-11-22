@@ -119,6 +119,17 @@ An automated system that keeps plants alive using <b>ESP8266</b> & <b>Server Sen
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AryanPandeyDev&theme=tokyonight&hide_border=true&background=00000000" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/AryanPandeyDev/AryanPandeyDev/raw/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+<br/>
+
+<h2 align="center">🌆 ARCHITECTURAL METRICS</h2>
+<p align="center">
+  <img src="https://github.com/AryanPandeyDev/AryanPandeyDev/raw/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d city" />
+</p>
+
 <br/>
 
 <h2 align="center">📡 ESTABLISH CONNECTION</h2>
