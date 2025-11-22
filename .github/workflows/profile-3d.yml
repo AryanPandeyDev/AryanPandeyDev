@@ -8,14 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # This permissions block is crucial!
-    permissions: 
+    permissions:
       contents: write
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      - uses: yoshi3891/github-profile-3d-contrib@0.7.1
+      - uses: yoshi3891/github-profile-3d-contrib@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
