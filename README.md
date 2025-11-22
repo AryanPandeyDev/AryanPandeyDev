@@ -95,6 +95,10 @@ An automated system that keeps plants alive using <b>ESP8266</b> & <b>Server Sen
 <br/>
 • Auto & Manual switching
 <br/><br/>
+<a href="https://github.com/AryanPandeyDev/Smart_Irrigation">
+  <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+<br/><br/>
 <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
 </td>
 <td width="40%" align="center">
