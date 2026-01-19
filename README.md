@@ -3,13 +3,13 @@
 <img src="https://github.com/AryanPandeyDev/AryanPandeyDev/raw/main/cyber.gif" width="100%" height="180" style="border-radius: 10px; object-fit: cover;" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM_INIT_...;I+am+Aryan+Pandey;Full+Stack+Android+Developer;Building+Automated+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM_INIT_...;I+am+Aryan+Pandey;Full+Stack+Android+Developer;Web3+%26+Solidity+Engineer;Building+Decentralized+Futures" alt="Typing SVG" />
 </a>
 
 <p>
     <img src="https://img.shields.io/badge/Full%20Stack-Android-FF00FF?style=for-the-badge&logo=android&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Focus-Experience-00F0FF?style=for-the-badge&logo=sparkles&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Status-Building%20Dreams-7000FF?style=for-the-badge&logo=code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3-Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
 <br/>
@@ -17,15 +17,15 @@
 <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="30"> <b>ABOUT THE DEVELOPER</b> <img src="https://media.giphy.com/media/13HgwGsXf0aiGY/giphy.gif" width="30">
 <br/><br/>
 
-> "I enjoy turning ideas into smooth, reliable, and well-crafted products."
+> "I build bridges between people and decentralized systems."
 
-I am a developer focused on the **whole experience**. I bridge the gap between fluid Mobile UIs and robust Backend logic. My goal is simple: build products that are simple, stable, and pleasant to use.
+I am a developer who enjoys turning complex Web3 ideas into simple mobile experiences. I focus on clean Android UIs, solid blockchain design, and building decentralized apps that people can actually use.
 
-🔹 **Android:** Kotlin, Jetpack Compose, MVVM, Room
+🔹 **Android:** Kotlin, Jetpack Compose, MVVM, Room, Coroutines
 <br/>
-🔹 **Backend:** Spring Boot, REST Architecture
+🔹 **Web3:** Solidity, Ethereum, Smart Contracts, DeFi, NFTs
 <br/>
-🔹 **Philosophy:** Simple code, complex capabilities.
+🔹 **Philosophy:** Decentralized code, centralized user experience.
 
 <br/>
 
@@ -52,21 +52,31 @@ I am a developer focused on the **whole experience**. I bridge the gap between f
 <img src="https://img.shields.io/badge/Room-1976D2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DataStore-6200EE?style=for-the-badge" />
 
+<h3 align="center">⛓️ Web3 & Blockchain</h3>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Smart%20Contracts-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+<img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+
 <h3 align="center">📡 Backend & Data</h3>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-<h3 align="center">🛠️ Arsenal & AI</h3>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" />
+<h3 align="center">🛠️ Arsenal & Tools</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=vim&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 <br/>
 <br/>
@@ -75,34 +85,40 @@ I am a developer focused on the **whole experience**. I bridge the gap between f
 
 <br/>
 
-<h2 align="center">🌿 CURRENT MISSION: SMART IRRIGATION</h2>
+<h2 align="center">🎮 CURRENT MISSION: LINE | WEB3 GAME CENTER</h2>
 
 <table>
 <tr>
 <td width="60%" align="center">
 <br/>
-<b>IoT + Android + AI</b>
+<b>Blockchain Gaming + NFT Marketplace</b>
 <br/><br/>
-An automated system that keeps plants alive using <b>ESP8266</b> & <b>Server Sent Events</b>.
+A full-stack <b>Web3 gaming platform</b> where users play games, earn tokens, collect NFTs, and participate in on-chain auctions.
 <br/><br/>
 🚀 <b>Key Features:</b>
 <br/>
-• Real-time moisture monitoring via SSE
+• On-chain NFT Marketplace with auctions
 <br/>
-• AI Chatbot for plant care advice
+• Custom LINE Token (ERC20-like) with minting
 <br/>
-• Remote pump control via HTTP
+• Play-to-Earn reward system
 <br/>
-• Auto & Manual switching
+• Referral program with tier progression
+<br/>
+• Daily streaks & achievement system
 <br/><br/>
-<a href="https://github.com/AryanPandeyDev/Smart_Irrigation">
+⚙️ <b>Tech Stack:</b>
+<br/>
+Next.js • Solidity • Smart Contracts • PostgreSQL • Redux
+<br/><br/>
+<a href="https://github.com/AryanPandeyDev/Line">
   <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
 </td>
 <td width="40%" align="center">
-<img src="https://media.giphy.com/media/3o7btW1pyGqS4H9jZ6/giphy.gif" width="200" />
+<img src="https://github.com/AryanPandeyDev/AryanPandeyDev/blob/main/LineDemo.png"/>
 </td>
 </tr>
 </table>
