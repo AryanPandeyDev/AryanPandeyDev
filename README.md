@@ -79,49 +79,6 @@ I am a developer who enjoys turning complex Web3 ideas into simple mobile experi
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 <br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<h2 align="center">🎮 CURRENT MISSION: LINE | WEB3 GAME CENTER</h2>
-
-<table>
-<tr>
-<td width="60%" align="center">
-<br/>
-<b>Blockchain Gaming + NFT Marketplace</b>
-<br/><br/>
-A full-stack <b>Web3 gaming platform</b> where users play games, earn tokens, collect NFTs, and participate in on-chain auctions.
-<br/><br/>
-🚀 <b>Key Features:</b>
-<br/>
-• On-chain NFT Marketplace with auctions
-<br/>
-• Custom LINE Token (ERC20-like) with minting
-<br/>
-• Play-to-Earn reward system
-<br/>
-• Referral program with tier progression
-<br/>
-• Daily streaks & achievement system
-<br/><br/>
-⚙️ <b>Tech Stack:</b>
-<br/>
-Next.js • Solidity • Smart Contracts • PostgreSQL • Redux
-<br/><br/>
-<a href="https://github.com/AryanPandeyDev/Line">
-  <img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-</td>
-<td width="40%" align="center">
-<img src="https://github.com/AryanPandeyDev/AryanPandeyDev/blob/main/LineDemo.png"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
